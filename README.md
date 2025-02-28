@@ -1228,7 +1228,7 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 
 ### Contributions by [FreshSTAKING](https://FreshSTAKING.com)
 #### Community
-* Celestia Statistics (DA Market Share, Live Node Maps, Security Ratio): https://celestiastats.com
+* Celestia Statistics (DA Market Share, Live Node Maps, Security Ratio, more to come): https://celestiastats.com
 * Twitter: https://x.com/search?q=celestia%20OR%20%40celestia%20OR%20TIA%20OR%20%24TIA%20from%3Awholesum&src=typed_query&f=live
 #### Mainnet
 * Validator: celestiavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj8g0ng0
