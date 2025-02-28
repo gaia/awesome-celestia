@@ -1233,9 +1233,10 @@ Compilation of technical guides and resources, such as node guides, monitoring s
 #### Mainnet
 * Validator: celestiavaloper17h2x3j7u44qkrq0sk8ul0r2qr440rwgj8g0ng0
 * Bridge: 12D3KooWB76C4ukcSmsfYR2Hx1A5Cu3Xs75jNKcwkxbHVCdtiAXF
+* Relayer: celestia1qakhchc554jttsnv2m2xql9ypad27qp0h7x8e6
 * RPC: https://rpc-celestia.freshstaking.com:443
-* Seed: seed-celestia.freshstaking.com:34657
-* Peer: peer-celestia.freshstaking.com:34657
+* Seed: b7408d0c59fc0fd0c9153365d5593c6c32870cb0@seed-celestia.freshstaking.com:34657
+* Peer: b7408d0c59fc0fd0c9153365d5593c6c32870cb0@peer-celestia.freshstaking.com:34657
 #### Testnet
 * Light Node
 
